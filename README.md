@@ -20,6 +20,8 @@ To use this app., all thats needed is your own notes written into the apps provi
 
 ## Testing
 No tests were required for this project. To view a walk through of the working code and app., please watch the video below: 
+https://youtu.be/W1m25EiBVEo
+
 
 ## License
 This project is licensed under the mit.
@@ -27,11 +29,5 @@ This project is licensed under the mit.
 ## Contributors
 All contributions to this project were made possible by the staff from ASU's coding bootcamp.
 
-## Contributors
-
-
-## Testing
-Here is a video walk through of how this application is ran.
-
 ## Questions
-If you have any questions about this project, at undefined. If you want to see more of my work, please visit my [undefined](https://github.com/undefined)
+If you have any questions about this project, please email me at: Trevor9J@Protonmail.com. If you would like to view the repo to this project please visit this [link](https://github.com/TrevorsDev/Browser-Text-Editor-). To view more of my work, please visit my [GitHub](https://github.com/trevorsdev)
