@@ -1,4 +1,7 @@
 # Text-Editor-PWA
+
+LINK TO DEPLOYED APPLICATION: https://browser-text-editor-2346.onrender.com/
+
  ![Github license](https://img.shields.io/badge/license-mit-blue.svg)
 
 ## Discription
